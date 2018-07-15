@@ -1,0 +1,7 @@
+[Dd]ebug/
+[Rr]elease/
+*.ncb
+*.aps
+*.opt
+*.suo
+*.user
